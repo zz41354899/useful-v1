@@ -1,0 +1,11 @@
+.badge {
+  @apply inline-block rounded-full px-3 py-0 self-center;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.badge-sm {
+  @apply px-[9px] py-0;
+  font-size: 12px;
+  line-height: 18px;
+}

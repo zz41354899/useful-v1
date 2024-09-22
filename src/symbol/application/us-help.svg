@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" fill="currentColor" viewBox="0 0 25 24">
+  <g class="us-help">
+    <g class="Group">
+      <g class="Group">
+        <path fill="#222" fill-rule="evenodd" d="M12.463 2.638a9.25 9.25 0 0 0-9.25 9.25c0 1.383.303 2.693.846 3.87a.75.75 0 0 1 .066.38l-.28 3.173.98-.941a.75.75 0 0 1 1.053.014 9.22 9.22 0 0 0 6.585 2.754 9.25 9.25 0 0 0 0-18.5Zm-10.75 9.25c0-5.937 4.813-10.75 10.75-10.75s10.75 4.813 10.75 10.75-4.813 10.75-10.75 10.75c-2.728 0-5.22-1.017-7.115-2.691l-1.907 1.83a.75.75 0 0 1-1.267-.606l.44-4.97a10.705 10.705 0 0 1-.901-4.313Z" class="Vector" clip-rule="evenodd"/>
+        <path fill="#222" d="M13.5 7.165a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z" class="Vector"/>
+        <path fill="#222" fill-rule="evenodd" d="M12.44 9.756a.75.75 0 0 1 .75.75v6.615a.75.75 0 0 1-1.5 0v-6.615a.75.75 0 0 1 .75-.75Z" class="Vector" clip-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

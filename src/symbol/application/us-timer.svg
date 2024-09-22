@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="24" fill="currentColor" viewBox="0 0 26 24">
+  <g class="us-timer">
+    <g class="Group">
+      <g class="Group">
+        <path fill="#000" fill-rule="evenodd" d="M13.014 3.736a8.25 8.25 0 1 0 0 16.5 8.25 8.25 0 0 0 0-16.5Zm-9.75 8.25c0-5.384 4.365-9.75 9.75-9.75 5.384 0 9.75 4.366 9.75 9.75 0 5.385-4.366 9.75-9.75 9.75a9.75 9.75 0 0 1-9.75-9.75Z" class="Vector" clip-rule="evenodd"/>
+        <path fill="#000" fill-rule="evenodd" d="M11.494 6.65a.75.75 0 0 1 .75.75v4.142c0 .69.56 1.25 1.25 1.25h3.28a.75.75 0 1 1 0 1.5h-3.28a2.75 2.75 0 0 1-2.75-2.75V7.4a.75.75 0 0 1 .75-.75Z" class="Vector" clip-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

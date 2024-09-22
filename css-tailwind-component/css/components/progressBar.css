@@ -1,0 +1,17 @@
+.progressBar-primary {
+  @apply h-5 w-full bg-us-blue600;
+}
+
+.progressBar-error {
+  @apply h-5 w-full bg-us-red600;
+}
+.progressBar-warning {
+  @apply h-5 w-full bg-us-orange600;
+}
+.progressBar-success {
+  @apply h-5 w-full bg-us-green600;
+}
+
+.progressBar-rounded {
+  @apply rounded-full;
+}

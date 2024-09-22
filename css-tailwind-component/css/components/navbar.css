@@ -1,0 +1,16 @@
+.navbar {
+  @apply flex items-center px-4 py-6 min-h-16 gap-6 w-full;
+  border-radius: theme('borderRadius.lg');
+}
+
+.navbar-begin {
+  @apply flex-none justify-self-start;
+}
+
+.navbar-items {
+  @apply flex items-center flex-1 gap-x-6;
+}
+
+.navbar-end {
+  @apply justify-self-end flex-none;
+}

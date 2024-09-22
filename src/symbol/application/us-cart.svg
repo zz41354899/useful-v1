@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="24" fill="currentColor" viewBox="0 0 26 24">
+  <g class="us-cart">
+    <g class="Group">
+      <g class="Group">
+        <path fill="#000" fill-rule="evenodd" d="M1.807 4.282a.75.75 0 0 1 .75-.75H4.38A2.75 2.75 0 0 1 7.002 5.45l3.232 10.187c.165.52.647.872 1.19.872h6.6a.75.75 0 1 1 0 1.5h-6.6a2.75 2.75 0 0 1-2.62-1.918L5.572 5.904a1.25 1.25 0 0 0-1.192-.872H2.557a.75.75 0 0 1-.75-.75Z" class="Vector" clip-rule="evenodd"/>
+        <path fill="#000" fill-rule="evenodd" d="M19.642 7.596H6.828v-1.5h12.816c.966 0 1.75.783 1.75 1.75v4.878a1.75 1.75 0 0 1-1.75 1.75H8.757v-1.5h10.884a.25.25 0 0 0 .25-.25V7.846a.25.25 0 0 0-.249-.25Z" class="Vector" clip-rule="evenodd"/>
+        <path fill="#000" d="M10.865 20.615a1.436 1.436 0 1 1-2.873 0 1.436 1.436 0 0 1 2.873 0Zm10.004-.066a1.436 1.436 0 1 1-2.87 0 1.436 1.436 0 0 1 2.87 0Z" class="Vector"/>
+        <path fill="#000" fill-rule="evenodd" d="M7.653 10.045a.75.75 0 0 1 .75-.75h12.19a.75.75 0 1 1 0 1.5H8.402a.75.75 0 0 1-.75-.75Z" class="Vector" clip-rule="evenodd"/>
+        <path fill="#000" fill-rule="evenodd" d="M10.331 6.214a.75.75 0 0 1 .949.474l2.254 6.763a.75.75 0 0 1-1.423.474L9.857 7.163a.75.75 0 0 1 .474-.949Zm4.541.14a.75.75 0 0 1 .964.443l2.41 6.525a.75.75 0 0 1-1.407.52l-2.41-6.525a.75.75 0 0 1 .443-.963Z" class="Vector" clip-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

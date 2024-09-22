@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="24" fill="currentColor" viewBox="0 0 25 24">
+  <g class="us-searsh">
+    <g class="Group">
+      <g class="Group">
+        <path fill="#000" fill-rule="evenodd" d="M10.723 3.24a6.75 6.75 0 1 0 0 13.5 6.75 6.75 0 0 0 0-13.5Zm-8.25 6.75a8.25 8.25 0 1 1 16.5 0 8.25 8.25 0 0 1-16.5 0Z" class="Vector" clip-rule="evenodd"/>
+        <path fill="#000" fill-rule="evenodd" d="M15.883 15.138a.75.75 0 0 1 1.06-.018l5.05 4.884a.75.75 0 0 1-1.043 1.079l-5.05-4.885a.75.75 0 0 1-.017-1.06Z" class="Vector" clip-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

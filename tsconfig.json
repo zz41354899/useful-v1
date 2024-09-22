@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "types": ["node"],
+    "typeRoots": ["./node_modules/@types", "./node_modules"],
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "allowImportingTsExtensions": true,
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "tailwind.config.ts",
+    ".next/types/**/*.ts"
+, "src/app/[lang]/[design]/[ui]/error.js"  ],
+  "exclude": ["./node_modules"]
+}

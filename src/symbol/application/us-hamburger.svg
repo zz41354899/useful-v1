@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="24" fill="currentColor" viewBox="0 0 26 24">
+  <g class="us-hamburger">
+    <g class="Group">
+      <path fill="#000" fill-rule="evenodd" d="M6.11 7.663a.75.75 0 0 1 .75-.75h14a.75.75 0 1 1 0 1.5h-14a.75.75 0 0 1-.75-.75Zm0 5a.75.75 0 0 1 .75-.75h14a.75.75 0 1 1 0 1.5h-14a.75.75 0 0 1-.75-.75Zm0 5a.75.75 0 0 1 .75-.75h14a.75.75 0 1 1 0 1.5h-14a.75.75 0 0 1-.75-.75Z" class="Vector" clip-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

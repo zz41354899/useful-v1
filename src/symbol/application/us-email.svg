@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="24" fill="currentColor" viewBox="0 0 26 24">
+  <g class="us-email">
+    <g class="Group">
+      <g class="Group">
+        <path fill="#000" fill-rule="evenodd" d="M2.932 5.813c0-.967.783-1.75 1.75-1.75h17c.966 0 1.75.783 1.75 1.75v12a1.75 1.75 0 0 1-1.75 1.75h-17a1.75 1.75 0 0 1-1.75-1.75v-12Zm1.75-.25a.25.25 0 0 0-.25.25v12c0 .139.112.25.25.25h17a.25.25 0 0 0 .25-.25v-12a.25.25 0 0 0-.25-.25h-17Z" class="Vector" clip-rule="evenodd"/>
+        <path fill="#000" fill-rule="evenodd" d="M21.028 6.29a.75.75 0 0 1 .043 1.06l-6.015 6.529a2.75 2.75 0 0 1-4.061-.018L5.46 7.747A.75.75 0 0 1 6.572 6.74l5.534 6.114a1.25 1.25 0 0 0 1.846.009l6.015-6.53a.75.75 0 0 1 1.06-.043Z" class="Vector" clip-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

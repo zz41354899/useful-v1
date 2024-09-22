@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9" height="20" fill="currentColor" viewBox="0 0 9 20">
+  <g class="us-attach">
+    <path fill="#000" fill-rule="evenodd" d="M3.33 2.193c-.69 0-1.25.56-1.25 1.25v9.98a.75.75 0 0 1-1.5 0v-9.98A2.75 2.75 0 0 1 3.33.693h2.34a2.75 2.75 0 0 1 2.75 2.75V17.62a2.38 2.38 0 1 1-4.76 0V6.105a.75.75 0 0 1 1.5 0V17.62a.88.88 0 0 0 1.76 0V3.443c0-.69-.56-1.25-1.25-1.25H3.33Z" class="Vector" clip-rule="evenodd"/>
+  </g>
+</svg>

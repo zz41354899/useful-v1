@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="24" fill="currentColor" viewBox="0 0 26 24">
+  <g class="us-location">
+    <g class="Group">
+      <g class="Group">
+        <path fill="#000" d="M14.637 12.03a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0Z" class="Vector"/>
+        <path fill="#000" fill-rule="evenodd" d="M13.059 7.628a4.25 4.25 0 1 0 0 8.5 4.25 4.25 0 0 0 0-8.5Zm-5.75 4.25a5.75 5.75 0 1 1 11.499 0 5.75 5.75 0 0 1-11.5 0Z" class="Vector" clip-rule="evenodd"/>
+        <path fill="#000" fill-rule="evenodd" d="M12.721 2.639h1v3.876h-1V2.639Zm0 14.27h1v3.876h-1v-3.876Zm-8.604-4.484v-1h3.877v1H4.117Zm14.27 0v-1h3.877v1h-3.877Z" class="Vector" clip-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
+  <g class="us-grid">
+    <g class="us-grid">
+      <path fill-rule="evenodd" d="M4.486 4.549v5.643h5.644V4.55H4.486Zm-.5-1.5a1 1 0 0 0-1 1v6.643a1 1 0 0 0 1 1h6.644a1 1 0 0 0 1-1V4.05a1 1 0 0 0-1-1H3.986Z" class="Rectangle 28 (Stroke)" clip-rule="evenodd"/>
+      <path fill-rule="evenodd" d="M4.434 14.185v5.643h5.643v-5.643H4.434Zm-.5-1.5a1 1 0 0 0-1 1v6.643a1 1 0 0 0 1 1h6.643a1 1 0 0 0 1-1v-6.643a1 1 0 0 0-1-1H3.934Z" class="Rectangle 30 (Stroke)" clip-rule="evenodd"/>
+      <path fill-rule="evenodd" d="M14.11 4.58v5.643h5.643V4.579h-5.644Zm-.5-1.5a1 1 0 0 0-1 1v6.643a1 1 0 0 0 1 1h6.643a1 1 0 0 0 1-1V4.079a1 1 0 0 0-1-1h-6.644Z" class="Rectangle 29 (Stroke)" clip-rule="evenodd"/>
+      <path fill-rule="evenodd" d="M14.057 14.215v5.643H19.7v-5.643h-5.643Zm-.5-1.5a1 1 0 0 0-1 1v6.643a1 1 0 0 0 1 1H20.2a1 1 0 0 0 1-1v-6.643a1 1 0 0 0-1-1h-6.643Z" class="Rectangle 31 (Stroke)" clip-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

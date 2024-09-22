@@ -1,0 +1,224 @@
+export default {
+  "@font-face": {
+    "fontFamily": "'us-icon'",
+    "src": "url('fonts/us-icon.woff') format('woff'),\r\n    url('fonts/us-icon.ttf') format('truetype'),\r\n    url('fonts/us-icon.eot') format('embedded-opentype'),\r\n    url('fonts/us-icon.svg#us-icon') format('svg')",
+    "fontWeight": "normal",
+    "fontStyle": "normal",
+    "fontDisplay": "block"
+  },
+  ".us-icon": {
+    "fontFamily": "'us-icon' !important",
+    "speak": "never",
+    "fontStyle": "normal",
+    "fontWeight": "normal",
+    "fontVariant": "normal",
+    "textTransform": "none",
+    "lineHeight": "1 !important",
+    "WebkitFontSmoothing": "antialiased",
+    "MozOsxFontSmoothing": "grayscale"
+  },
+  ".us-cloudy:before": {
+    "content": "'\\e900'"
+  },
+  ".us-drizzle:before": {
+    "content": "'\\e901'"
+  },
+  ".us-morning:before": {
+    "content": "'\\e902'"
+  },
+  ".us-nuit:before": {
+    "content": "'\\e903'"
+  },
+  ".us-overcast:before": {
+    "content": "'\\e904'"
+  },
+  ".us-rain:before": {
+    "content": "'\\e905'"
+  },
+  ".us-snow:before": {
+    "content": "'\\e906'"
+  },
+  ".us-squall:before": {
+    "content": "'\\e907'"
+  },
+  ".us-sunrise:before": {
+    "content": "'\\e908'"
+  },
+  ".us-thunder:before": {
+    "content": "'\\e909'"
+  },
+  ".us-torrential:before": {
+    "content": "'\\e90a'"
+  },
+  ".us-arrow:before": {
+    "content": "'\\e90b'"
+  },
+  ".us-attach:before": {
+    "content": "'\\e90c'"
+  },
+  ".us-battery:before": {
+    "content": "'\\e90d'"
+  },
+  ".us-calendar:before": {
+    "content": "'\\e90e'"
+  },
+  ".us-camara:before": {
+    "content": "'\\e90f'"
+  },
+  ".us-cart:before": {
+    "content": "'\\e910'"
+  },
+  ".us-chart:before": {
+    "content": "'\\e911'"
+  },
+  ".us-done:before": {
+    "content": "'\\e912'"
+  },
+  ".us-download:before": {
+    "content": "'\\e913'"
+  },
+  ".us-edit:before": {
+    "content": "'\\e914'"
+  },
+  ".us-email:before": {
+    "content": "'\\e915'"
+  },
+  ".us-file:before": {
+    "content": "'\\e916'"
+  },
+  ".us-filiter:before": {
+    "content": "'\\e917'"
+  },
+  ".us-grid:before": {
+    "content": "'\\e918'"
+  },
+  ".us-hamburger:before": {
+    "content": "'\\e919'"
+  },
+  ".us-heart:before": {
+    "content": "'\\e91a'"
+  },
+  ".us-help:before": {
+    "content": "'\\e91b'"
+  },
+  ".us-hide:before": {
+    "content": "'\\e91c'"
+  },
+  ".us-home:before": {
+    "content": "'\\e91d'"
+  },
+  ".us-image:before": {
+    "content": "'\\e91e'"
+  },
+  ".us-internet:before": {
+    "content": "'\\e91f'"
+  },
+  ".us-loading:before": {
+    "content": "'\\e920'"
+  },
+  ".us-location:before": {
+    "content": "'\\e921'"
+  },
+  ".us-lock:before": {
+    "content": "'\\e922'"
+  },
+  ".us-mic:before": {
+    "content": "'\\e923'"
+  },
+  ".us-more:before": {
+    "content": "'\\e924'"
+  },
+  ".us-mouse:before": {
+    "content": "'\\e925'"
+  },
+  ".us-notification:before": {
+    "content": "'\\e926'"
+  },
+  ".us-parson:before": {
+    "content": "'\\e927'"
+  },
+  ".us-phone:before": {
+    "content": "'\\e928'"
+  },
+  ".us-plus:before": {
+    "content": "'\\e929'"
+  },
+  ".us-printer:before": {
+    "content": "'\\e92a'"
+  },
+  ".us-scan:before": {
+    "content": "'\\e92b'"
+  },
+  ".us-searsh:before": {
+    "content": "'\\e92c'"
+  },
+  ".us-sensor:before": {
+    "content": "'\\e92d'"
+  },
+  ".us-servies:before": {
+    "content": "'\\e92e'"
+  },
+  ".us-settings:before": {
+    "content": "'\\e92f'"
+  },
+  ".us-share:before": {
+    "content": "'\\e930'"
+  },
+  ".us-start:before": {
+    "content": "'\\e931'"
+  },
+  ".us-subtract:before": {
+    "content": "'\\e932'"
+  },
+  ".us-timer:before": {
+    "content": "'\\e933'"
+  },
+  ".us-trash:before": {
+    "content": "'\\e934'"
+  },
+  ".us-unlock:before": {
+    "content": "'\\e935'"
+  },
+  ".us-update:before": {
+    "content": "'\\e936'"
+  },
+  ".us-video:before": {
+    "content": "'\\e937'"
+  },
+  ".us-vistable:before": {
+    "content": "'\\e938'"
+  },
+  ".us-wifi:before": {
+    "content": "'\\e939'"
+  },
+  ".us-zoomin:before": {
+    "content": "'\\e93a'"
+  },
+  ".us-zoomout:before": {
+    "content": "'\\e93b'"
+  },
+  ".us-carbon:before": {
+    "content": "'\\e93c'"
+  },
+  ".us-heat:before": {
+    "content": "'\\e93d'"
+  },
+  ".us-humi:before": {
+    "content": "'\\e93e'"
+  },
+  ".us-percent:before": {
+    "content": "'\\e93f'"
+  },
+  ".us-pm25:before": {
+    "content": "'\\e940'"
+  },
+  ".us-pm10:before": {
+    "content": "'\\e941'"
+  },
+  ".us-potenz:before": {
+    "content": "'\\e942'"
+  },
+  ".us-temp:before": {
+    "content": "'\\e943'"
+  }
+}

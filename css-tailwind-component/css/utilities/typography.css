@@ -1,0 +1,59 @@
+.note {
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 15px;
+}
+
+.small {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.body-content {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.subtitle2 {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.subtitle1 {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.title3 {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.title2 {
+  font-weight: 600;
+  font-size: 28px;
+  line-height: 42px;
+}
+
+.title1 {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 48px;
+}
+
+.large-text {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+}
+
+.display {
+  font-weight: 700;
+  font-size: 68px;
+  line-height: 102px;
+}

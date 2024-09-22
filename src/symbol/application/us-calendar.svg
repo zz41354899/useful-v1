@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="24" fill="currentColor" viewBox="0 0 26 24">
+  <g class="us-calendar">
+    <g class="Group">
+      <g class="Group">
+        <path fill="#000" fill-rule="evenodd" d="M21 6.298H5.045a.5.5 0 0 0-.5.5v11.936a.5.5 0 0 0 .5.5H21a.5.5 0 0 0 .5-.5V6.798a.5.5 0 0 0-.5-.5Zm-15.955-1.5a2 2 0 0 0-2 2v11.936a2 2 0 0 0 2 2H21a2 2 0 0 0 2-2V6.798a2 2 0 0 0-2-2H5.045Z" class="Vector" clip-rule="evenodd"/>
+        <path fill="#000" fill-rule="evenodd" d="M7.583 5.85V2.984h1.5V5.85h-1.5Zm9.71.041V3.025h1.5v2.866h-1.5Zm5.24 3.424H3.469v-1.5h19.064v1.5Z" class="Vector" clip-rule="evenodd"/>
+        <path fill="#000" d="M19.883 17.023c0 .555-.472 1.003-1.054 1.003-.582 0-1.054-.45-1.054-1.003 0-.555.472-1.003 1.054-1.003.582 0 1.054.45 1.054 1.003Z" class="Vector"/>
+      </g>
+    </g>
+  </g>
+</svg>

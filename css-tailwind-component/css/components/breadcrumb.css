@@ -1,0 +1,29 @@
+.breadcrumb {
+  @apply flex items-center;
+  --color-text: theme('colors.us-gray1100');
+  --color-text-active: theme('colors.us-blue600');
+  --gap: 4px;
+  column-gap: var(--gap);
+}
+
+.breadcrumb-item {
+  @apply cursor-default flex gap-1 items-center;
+  color: var(--color-text);
+}
+
+.breadcrumb-link {
+  @apply flex gap-1 items-center;
+}
+
+.breadcrumb-item-active {
+  color: var(--color-text-active);
+}
+
+.breadcrumb-item-with-delimiter:not(:last-child):after {
+  content: '/';
+  margin-left: var(--gap);
+}
+
+.breadcrumb-link:hover {
+  @apply underline;
+}

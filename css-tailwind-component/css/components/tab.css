@@ -1,0 +1,47 @@
+/*
+  --color-text: ;
+  --color-bg: ;
+  --color-border: ;
+  --border-width: ;
+  --border-radius: ;
+
+  --color-text-active: ;
+  --color-bg-active: ;
+  --color-border-active: ;
+  */
+
+.tab-list {
+  @apply flex;
+  --color-text: theme('colors.us-gray600');
+  --color-border: theme('colors.us-gray600');
+  --border-width: 2px;
+  --color-border: theme('colors.us-gray600');
+  --color-text-active: theme('colors.us-blue600');
+  --color-border-active: theme('colors.us-blue600');
+  border-bottom: var(--border-width) solid var(--color-border);
+}
+
+.tab-boxed {
+  --color-bg: transparent;
+  --border-width: 0px;
+  --border-radius: 8px;
+  --color-text-active: #fff;
+  --color-bg-active: theme('colors.us-blue600');
+}
+
+.tab {
+  @apply flex-1 px-2 py-4 inline-block text-center select-none;
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  margin-bottom: calc(-1 * var(--border-width));
+  border-bottom: var(--border-width) solid transparent;
+  border-radius: var(--border-radius);
+}
+
+.tab-active {
+  color: var(--color-text-active);
+  background-color: var(--color-bg-active);
+  border-bottom: var(--border-width) solid var(--color-border-active);
+}
+
+/* TODO: 把 tab-active 改成可以 tab-active-primary, 或 tab-active-[us-blue600] */

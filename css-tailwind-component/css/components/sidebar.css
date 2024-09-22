@@ -1,0 +1,37 @@
+.sidebar-container {
+  @apply flex flex-col p-6 gap-y-6;
+}
+.sidebar-begin {
+  @apply flex items-center;
+}
+.sidebar-end {
+  @apply mt-auto flex flex-col;
+}
+.sidebar-list {
+  @apply flex flex-1 flex-col overflow-y-auto text-black;
+}
+
+.sidebar-item {
+  @apply flex gap-x-4 rounded-lg items-center p-4 font-normal;
+  font-size: 14px;
+}
+
+.sidebar-item-active {
+  @apply bg-us-blue600 text-white;
+}
+
+.sidebar-icons {
+  @apply w-fit;
+}
+
+.sidebar-icons .sidebar-item-content {
+  @apply hidden
+}
+
+.sidebar-icons .sidebar-begin {
+  @apply justify-center;
+}
+
+.sidebar-icons .sidebar-item {
+  @apply rounded-full flex justify-center;
+}
