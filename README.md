@@ -57,6 +57,6 @@ export default App;
  - [Utilize]()
 
 ## ❤️來自貢獻者的愛心
-我們是一群愛好開發PM、工程師、UI/UX貢獻此專案，原始碼授權方式為[MIT](LICENSE)
+我們是一群愛好前端開發PM、工程師、UI/UX貢獻此專案，原始碼授權方式為[MIT](LICENSE)
 <br>
 如對我們的開發有興趣還盡請分享、使用或一同改進 🔥
