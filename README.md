@@ -51,6 +51,8 @@ export default App;
  - [React](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [NextJs](https://nextjs.org/)
  - [Shadcn](https://ui.shadcn.com/)
+ - [Tailwind](https://tailwindcss.com/)
+ - [Radix](https://www.radix-ui.com/)
  - [Utilize]()
 
 ## ❤️來自台灣的貢獻者
