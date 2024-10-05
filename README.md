@@ -1,10 +1,9 @@
-![Logo](public/img/brand/logo.svg)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 # Useful UI
 Useful UI 是一個開源元件庫，基於 shadcn專為 React 開發。
 
-## 目錄
+## 🚩目錄
 - [📘專案簡介](#專案簡介)
 - [📦安裝](#安裝)
 - [🚀主要功能](#主要功能)
