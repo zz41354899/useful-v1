@@ -1,7 +1,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 # Useful UI
-Useful UI 是一個開源元件庫，基於Radixn專為 React 開發元件庫。
+Useful UI 是一個開源元件庫，基於Radix專為 React 開發元件庫。
 
 ## 🚩目錄
 - [📘專案簡介](#專案簡介)
