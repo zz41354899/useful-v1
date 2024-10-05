@@ -49,7 +49,7 @@ export default App;
 
 ## 🎗️相依套件
 
- - [React](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [React](https://react.dev/)
  - [NextJs](https://nextjs.org/)
  - [Tailwind](https://tailwindcss.com/)
  - [Radix](https://www.radix-ui.com/)
